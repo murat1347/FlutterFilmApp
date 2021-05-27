@@ -1,6 +1,7 @@
 # flutter_json_app
 
 A new Flutter application.
+![filmler](https://user-images.githubusercontent.com/17177508/119842940-c6767a00-bf0f-11eb-897b-05a75e91dba2.jpg)
 
 ## Getting Started
 
